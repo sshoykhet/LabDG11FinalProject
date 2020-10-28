@@ -1,5 +1,5 @@
 # LabDG11FinalProject
-Group Name:
+Group Name: Think Big, Code Small.
 
 Group Members:
 	Sam Shoykhet sms339@pitt.edu
