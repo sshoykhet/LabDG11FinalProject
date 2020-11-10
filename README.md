@@ -8,6 +8,6 @@ Group Members:
 
 Description:
 
-Datasets:
+Datasets: Pittsburgh Police Arrest Data, 
 
 Abstract:
