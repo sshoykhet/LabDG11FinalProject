@@ -7,7 +7,6 @@ Group Members:
 	Shannon Foster srf50@pitt.edu
 
 Description: 
-
 Shanon's data  provided environmental information in Pittsburgh. From it, we used the number of trees in
 each neighborhood.
 https://data.wprdc.org/dataset/neighborhoods-with-snap-data/resource/cdea4e5c-646d-4924-84b1-afc3a7206eb9?inner_span=True
